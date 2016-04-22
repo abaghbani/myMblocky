@@ -1107,6 +1107,11 @@ Blockly.Msg.UI_LABEL_STOP = "Stop";
 
 Blockly.Msg.START_WHEN_GO = "when Go";
 
+Blockly.Msg.MANELI_FORWARD = "maneli forward";
+Blockly.Msg.MANELI_TURNLEFT = "maneli turnleft";
+Blockly.Msg.MANELI_TURNRIGHT = "maneli turnright";
+Blockly.Msg.MANELI_STOP = "Stop";
+
 Blockly.Msg.MOVE_RUN = "run";
 Blockly.Msg.MOVE_SPEED_TIP = "at speed";
 Blockly.Msg.MOVE_TURN = "turn";
